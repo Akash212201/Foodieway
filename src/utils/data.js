@@ -132,37 +132,37 @@ export const foodItemsData = [
   {
       category: "Chicken",
       imageURL: c1,
-      title: "ItemName",
-      calories: 20,
-      price: "Item Price"
+      title: "Chicken Manchurian",
+      calories: 65,
+      price: 10
   },
   {
       category: "Chicken",
       imageURL: c2,
-      title: "ItemName",
-      calories: 20,
-      price: "Item Price"
+      title: "Chicken 65",
+      calories: 80,
+      price: 120
   },
   {
       category: "Chicken",
       imageURL: c3,
-      title: "ItemName",
-      calories: 20,
-      price: "Item Price"
+      title: "Chicken Kebab",
+      calories: 85,
+      price: 12
   },
   {
       category: "Chicken",
       imageURL: c4,
-      title: "ItemName",
-      calories: 20,
-      price: "Item Price"
+      title: "Roasted Chicken",
+      calories: 65,
+      price: 85
   },
   {
       category: "Chicken",
       imageURL: c6,
-      title: "ItemName",
-      calories: 20,
-      price: "Item Price"
+      title: "Chicken Kebab Plate",
+      calories: 65,
+      price: 10
   },
   {
       category: "Chicken",
@@ -221,65 +221,65 @@ export const foodItemsData = [
   {
       category: "Drinks",
       imageURL: d1,
-      title: "ItemName",
+      title: "Red Bull",
       calories: 20,
-      price: "Item Price"
+      price: 40
   },
   {
       category: "Drinks",
       imageURL: d2,
-      title: "ItemName",
+      title: "Pepsi",
       calories: 20,
-      price: "Item Price"
+      price: 30
   },
   {
       category: "Drinks",
       imageURL: d3,
-      title: "ItemName",
+      title: "Monster",
       calories: 20,
-      price: "Item Price"
+      price: 60
   },
   {
       category: "Drinks",
       imageURL: d4,
-      title: "ItemName",
-      calories: 20,
-      price: "Item Price"
+      title: "Cocktail",
+      calories: 60,
+      price: 80
   },
   {
       category: "Drinks",
       imageURL: d5,
-      title: "ItemName",
-      calories: 20,
-      price: "Item Price"
+      title: "Sprite",
+      calories: 45,
+      price: 30
   },
   {
       category: "Drinks",
       imageURL: d6,
-      title: "ItemName",
-      calories: 20,
-      price: "Item Price"
+      title: "Fanta",
+      calories: 45,
+      price: 30
   },
   {
       category: "Drinks",
       imageURL: d7,
-      title: "ItemName",
+      title: "Mango Shake",
       calories: 20,
-      price: "Item Price"
+      price: 20
   },
   {
       category: "Drinks",
       imageURL: d8,
-      title: "ItemName",
+      title: "Coka Cola",
       calories: 20,
-      price: "Item Price"
+      price: 30
   },
 
 
   {
       category: "Fish",
       imageURL: fi1,
-      title: "ItemName",
+      title: "Fish Kebab",
       calories: 20,
       price: "Item Price"
   },
@@ -360,16 +360,16 @@ export const foodItemsData = [
   {
       category: "Fruits",
       imageURL: f2,
-      title: "ItemName",
+      title: "Pineapple",
       calories: 20,
       price: "Item Price"
   },
   {
       category: "Fruits",
       imageURL: f3,
-      title: "ItemName",
-      calories: 20,
-      price: "Item Price"
+      title: "Blue Berries",
+      calories: 80,
+      price: 200
   },
   {
       category: "Fruits",
@@ -381,43 +381,43 @@ export const foodItemsData = [
   {
       category: "Fruits",
       imageURL: f5,
-      title: "ItemName",
-      calories: 20,
-      price: "Item Price"
+      title: "Strawberries",
+      calories: 80,
+      price: 12
   },
   {
       category: "Fruits",
       imageURL: f6,
-      title: "ItemName",
-      calories: 20,
-      price: "Item Price"
+      title: "Pomegranate",
+      calories: 120,
+      price: 15
   },
   {
       category: "Fruits",
       imageURL: f7,
-      title: "ItemName",
+      title: "Rasperry",
       calories: 20,
       price: "Item Price"
   },
   {
       category: "Fruits",
       imageURL: f8,
-      title: "ItemName",
-      calories: 20,
-      price: "Item Price"
+      title: "Cherry",
+      calories: 65,
+      price: 80
   },
   {
       category: "Fruits",
       imageURL: f9,
-      title: "ItemName",
+      title: "Bananas",
       calories: 20,
-      price: "Item Price"
+      price: "50/Kg"
   },
   {
       category: "Fruits",
       imageURL: f10,
-      title: "ItemName",
-      calories: 20,
+      title: "Watermelon",
+      calories: "30 Per 100 grams",
       price: "Item Price"
   },
 

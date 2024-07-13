@@ -21,3 +21,15 @@ body {
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.footer{
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  grid-gap: 1em;
+}
+@media(max-width:768px){
+  .footer{
+    display: flex;
+    flex-direction: column;
+  }
+}

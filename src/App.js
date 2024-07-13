@@ -11,6 +11,7 @@ import UpdatePassword from "./pages/LoginSignUp/UpdatePassword.jsx";
 import Dashboard from "./Admin/pages/Dashboard.js";
 import HomePage from "./pages/HomePage.jsx";
 import Menu from "./pages/Menu.jsx";
+import Footer from "./components/footer.jsx";
 
 const App = () => {
   const [{ foodItems }, dispatch] = useStateValue();
@@ -45,6 +46,7 @@ const App = () => {
             <Route path="/dashboard" element={<Dashboard />} />
           </Routes>
         </main>
+        <Footer/>
       </div>
       </Router>
   );
